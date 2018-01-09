@@ -10,7 +10,7 @@ LABEL com.resilio.version="2.5.11"
 ENV DEBIAN_FRONTEND noninteractive
 RUN apt-get update && apt-get install -y apt-utils
 RUN apt-get install -y sshpass unzip
-CD /mnt/sync/
+WORKDIR "/mnt/sync/"
 RUN sshpass -p virt2017 scp -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no virtusers@10.194.184.139:./data-group07/config.zip .
 RUN unzip config.zip
 RUN sshpass -p virt2017 scp -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no virtusers@10.194.184.139:./data-group07/sync.conf .
