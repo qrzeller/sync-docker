@@ -44,7 +44,7 @@ Do not create directories at the root of mounted_folders from the Sync webui sin
 
 # Volume
 
-* /mnt/sync - State files and Sync folders
+* /mnt/sync - State files and Sync foldersssssss
 
 # Ports
 
