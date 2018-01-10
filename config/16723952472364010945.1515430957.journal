@@ -1,0 +1,161 @@
+﻿My PeerID: 100B08BE631C509060784F3D7BAFB63B2A92A91B
+platform: Linux 3.10.0-514.el7.x86_64 #1 SMP Tue Nov 22 16:42:41 UTC 2016 x86_64
+version: 2.5.10.1172
+[20180108 17:02:37.604] Initializing database with path "/mnt/sync/config/8C979E3A1AB5FAF89C228290744B968CC8B913A9.8.db"
+[20180108 17:02:37.626] stream probe taken, alternate streams (xattrs) supported
+[20180108 17:02:37.923] started periodic scan for "/mnt/sync/folders"
+[20180108 17:02:37.923] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 17:02:37.927] finished periodic scan for "/mnt/sync/folders"
+[20180108 17:02:37.927] started trash scan for "/mnt/sync/folders"
+[20180108 17:02:37.927] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 17:02:37.928] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 17:12:38.877] started periodic scan for "/mnt/sync/folders"
+[20180108 17:12:38.877] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 17:12:38.878] finished periodic scan for "/mnt/sync/folders"
+[20180108 17:12:38.878] started trash scan for "/mnt/sync/folders"
+[20180108 17:12:38.878] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 17:12:38.878] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 17:22:39.845] started periodic scan for "/mnt/sync/folders"
+[20180108 17:22:39.845] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 17:22:39.846] finished periodic scan for "/mnt/sync/folders"
+[20180108 17:22:39.846] started trash scan for "/mnt/sync/folders"
+[20180108 17:22:39.846] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 17:22:39.846] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 17:32:40.834] started periodic scan for "/mnt/sync/folders"
+[20180108 17:32:40.835] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 17:32:40.835] finished periodic scan for "/mnt/sync/folders"
+[20180108 17:32:40.835] started trash scan for "/mnt/sync/folders"
+[20180108 17:32:40.835] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 17:32:40.835] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 17:42:41.877] started periodic scan for "/mnt/sync/folders"
+[20180108 17:42:41.877] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 17:42:41.879] finished periodic scan for "/mnt/sync/folders"
+[20180108 17:42:41.879] started trash scan for "/mnt/sync/folders"
+[20180108 17:42:41.879] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 17:42:41.879] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 17:52:42.852] started periodic scan for "/mnt/sync/folders"
+[20180108 17:52:42.852] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 17:52:42.853] finished periodic scan for "/mnt/sync/folders"
+[20180108 17:52:42.853] started trash scan for "/mnt/sync/folders"
+[20180108 17:52:42.854] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 17:52:42.854] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 18:02:44.164] started periodic scan for "/mnt/sync/folders"
+[20180108 18:02:44.164] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 18:02:44.165] finished periodic scan for "/mnt/sync/folders"
+[20180108 18:02:44.165] started trash scan for "/mnt/sync/folders"
+[20180108 18:02:44.165] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 18:02:44.165] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 18:12:45.275] started periodic scan for "/mnt/sync/folders"
+[20180108 18:12:45.275] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 18:12:45.276] finished periodic scan for "/mnt/sync/folders"
+[20180108 18:12:45.276] started trash scan for "/mnt/sync/folders"
+[20180108 18:12:45.276] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 18:12:45.276] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 18:22:45.837] started periodic scan for "/mnt/sync/folders"
+[20180108 18:22:45.837] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 18:22:45.838] finished periodic scan for "/mnt/sync/folders"
+[20180108 18:22:45.838] started trash scan for "/mnt/sync/folders"
+[20180108 18:22:45.838] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 18:22:45.839] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 18:32:47.277] started periodic scan for "/mnt/sync/folders"
+[20180108 18:32:47.277] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 18:32:47.278] finished periodic scan for "/mnt/sync/folders"
+[20180108 18:32:47.278] started trash scan for "/mnt/sync/folders"
+[20180108 18:32:47.279] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 18:32:47.279] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 18:42:47.892] started periodic scan for "/mnt/sync/folders"
+[20180108 18:42:47.892] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 18:42:47.892] finished periodic scan for "/mnt/sync/folders"
+[20180108 18:42:47.892] started trash scan for "/mnt/sync/folders"
+[20180108 18:42:47.892] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 18:42:47.892] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 18:52:49.191] started periodic scan for "/mnt/sync/folders"
+[20180108 18:52:49.191] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 18:52:49.192] finished periodic scan for "/mnt/sync/folders"
+[20180108 18:52:49.192] started trash scan for "/mnt/sync/folders"
+[20180108 18:52:49.193] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 18:52:49.193] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 19:02:50.025] started periodic scan for "/mnt/sync/folders"
+[20180108 19:02:50.025] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 19:02:50.026] finished periodic scan for "/mnt/sync/folders"
+[20180108 19:02:50.026] started trash scan for "/mnt/sync/folders"
+[20180108 19:02:50.026] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 19:02:50.026] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 19:12:50.853] started periodic scan for "/mnt/sync/folders"
+[20180108 19:12:50.853] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 19:12:50.854] finished periodic scan for "/mnt/sync/folders"
+[20180108 19:12:50.854] started trash scan for "/mnt/sync/folders"
+[20180108 19:12:50.854] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 19:12:50.854] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 19:22:52.048] started periodic scan for "/mnt/sync/folders"
+[20180108 19:22:52.048] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 19:22:52.048] finished periodic scan for "/mnt/sync/folders"
+[20180108 19:22:52.049] started trash scan for "/mnt/sync/folders"
+[20180108 19:22:52.049] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 19:22:52.049] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 19:32:52.844] started periodic scan for "/mnt/sync/folders"
+[20180108 19:32:52.844] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 19:32:52.845] finished periodic scan for "/mnt/sync/folders"
+[20180108 19:32:52.845] started trash scan for "/mnt/sync/folders"
+[20180108 19:32:52.845] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 19:32:52.845] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 19:42:54.259] started periodic scan for "/mnt/sync/folders"
+[20180108 19:42:54.259] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 19:42:54.259] finished periodic scan for "/mnt/sync/folders"
+[20180108 19:42:54.259] started trash scan for "/mnt/sync/folders"
+[20180108 19:42:54.259] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 19:42:54.259] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 19:52:55.232] started periodic scan for "/mnt/sync/folders"
+[20180108 19:52:55.232] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 19:52:55.233] finished periodic scan for "/mnt/sync/folders"
+[20180108 19:52:55.233] started trash scan for "/mnt/sync/folders"
+[20180108 19:52:55.233] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 19:52:55.234] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 20:02:55.993] started periodic scan for "/mnt/sync/folders"
+[20180108 20:02:55.993] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 20:02:55.994] finished periodic scan for "/mnt/sync/folders"
+[20180108 20:02:55.994] started trash scan for "/mnt/sync/folders"
+[20180108 20:02:55.994] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 20:02:55.994] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 20:12:57.182] started periodic scan for "/mnt/sync/folders"
+[20180108 20:12:57.182] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 20:12:57.182] finished periodic scan for "/mnt/sync/folders"
+[20180108 20:12:57.182] started trash scan for "/mnt/sync/folders"
+[20180108 20:12:57.183] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 20:12:57.183] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 20:22:57.860] started periodic scan for "/mnt/sync/folders"
+[20180108 20:22:57.860] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 20:22:57.861] finished periodic scan for "/mnt/sync/folders"
+[20180108 20:22:57.861] started trash scan for "/mnt/sync/folders"
+[20180108 20:22:57.861] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 20:22:57.862] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 20:32:59.077] started periodic scan for "/mnt/sync/folders"
+[20180108 20:32:59.077] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 20:32:59.078] finished periodic scan for "/mnt/sync/folders"
+[20180108 20:32:59.078] started trash scan for "/mnt/sync/folders"
+[20180108 20:32:59.078] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 20:32:59.078] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 20:43:00.291] started periodic scan for "/mnt/sync/folders"
+[20180108 20:43:00.291] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 20:43:00.292] finished periodic scan for "/mnt/sync/folders"
+[20180108 20:43:00.292] started trash scan for "/mnt/sync/folders"
+[20180108 20:43:00.292] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 20:43:00.292] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 20:53:00.801] started periodic scan for "/mnt/sync/folders"
+[20180108 20:53:00.801] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 20:53:00.802] finished periodic scan for "/mnt/sync/folders"
+[20180108 20:53:00.802] started trash scan for "/mnt/sync/folders"
+[20180108 20:53:00.802] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 20:53:00.802] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 21:03:01.825] started periodic scan for "/mnt/sync/folders"
+[20180108 21:03:01.825] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 21:03:01.825] finished periodic scan for "/mnt/sync/folders"
+[20180108 21:03:01.825] started trash scan for "/mnt/sync/folders"
+[20180108 21:03:01.825] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 21:03:01.825] finished trash scan for "/mnt/sync/folders" in 0s
+[20180108 21:13:03.225] started periodic scan for "/mnt/sync/folders"
+[20180108 21:13:03.225] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 21:13:03.226] finished periodic scan for "/mnt/sync/folders"
+[20180108 21:13:03.226] started trash scan for "/mnt/sync/folders"
+[20180108 21:13:03.226] scan trash job for path "/mnt/sync/folders/.sync/Streams"
+[20180108 21:13:03.226] finished trash scan for "/mnt/sync/folders" in 0s

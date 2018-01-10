@@ -1,0 +1,256 @@
+﻿My PeerID: 100B08BE631C509060784F3D7BAFB63B2A92A91B
+platform: Linux 3.10.0-514.el7.x86_64 #1 SMP Tue Nov 22 16:42:41 UTC 2016 x86_64
+version: 2.5.10.1172
+[20180108 17:01:42.254] Initializing database with path "/mnt/sync/config/6BF23B9B7AF441592F6D3A4275228A727BED49C3.1.db"
+[20180108 17:01:42.261] stream probe taken, alternate streams (xattrs) supported
+[20180108 17:01:42.774] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:01:42.774] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 17:01:42.844] got fs event for path "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3", but its parent is unknown. repost fs event for parent
+[20180108 17:01:42.845] got fs event for path "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/folders", but its parent is unknown. repost fs event for parent
+[20180108 17:01:42.845] got fs event for path "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/info.dat", but its parent is unknown. repost fs event for parent
+[20180108 17:01:42.845] assign file_id 64768:68387268 to entry with path "/mnt/sync/config/.SyncUser1515430902/devices"
+[20180108 17:01:42.846] entry "/mnt/sync/config/.SyncUser1515430902/devices", tree path "devices" state: size:0 mt:1515430902 t:1515430902 type:folder hash: (new entry)
+[20180108 17:01:42.846] will scan newly created folder "/mnt/sync/config/.SyncUser1515430902/devices"
+[20180108 17:01:42.846] assign file_id 64768:36640278 to entry with path "/mnt/sync/config/.SyncUser1515430902/folders"
+[20180108 17:01:42.846] entry "/mnt/sync/config/.SyncUser1515430902/folders", tree path "folders" state: size:0 mt:1515430902 t:1515430902 type:folder hash: (new entry)
+[20180108 17:01:42.846] will scan newly created folder "/mnt/sync/config/.SyncUser1515430902/folders"
+[20180108 17:01:42.847] tf completed for "/mnt/sync/config/.SyncUser1515430902/identity.dat" - avg hash speed: <unknown>
+[20180108 17:01:42.848] assign file_id 64768:102268585 to entry with path "/mnt/sync/config/.SyncUser1515430902/identity.dat"
+[20180108 17:01:42.848] entry "/mnt/sync/config/.SyncUser1515430902/identity.dat", tree path "identity.dat" state: size:3109 mt:1515430902 t:1515430902 type:file hash:D5722E24F830A4DD76C96E878170BFCB2978228D (new entry)
+[20180108 17:01:42.850] assign file_id 64768:102268583 to entry with path "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3"
+[20180108 17:01:42.850] entry "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3", tree path "devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3" state: size:0 mt:1515430902 t:1515430902 type:folder hash: (new entry)
+[20180108 17:01:42.850] will scan newly created folder "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3"
+[20180108 17:01:42.866] assign file_id 64768:2873968 to entry with path "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/folders"
+[20180108 17:01:42.867] entry "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/folders", tree path "devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/folders" state: size:0 mt:1515430902 t:1515430902 type:folder hash: (new entry)
+[20180108 17:01:42.867] will scan newly created folder "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/folders"
+[20180108 17:01:42.868] tf completed for "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/info.dat" - avg hash speed: <unknown>
+[20180108 17:01:42.868] assign file_id 64768:102268584 to entry with path "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/info.dat"
+[20180108 17:01:42.868] entry "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/info.dat", tree path "devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/info.dat" state: size:291 mt:1515430902 t:1515430902 type:file hash:BC458B4733353112465411247FF45B203897F0AC (new entry)
+[20180108 17:01:42.869] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:01:42.869] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:01:42.869] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 17:01:42.869] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 17:02:37.927] got fs event for path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat", but its parent is unknown. repost fs event for parent
+[20180108 17:02:37.928] got fs event for path "/mnt/sync/config/.SyncUser1515430902/notifications/5562205678891441930.dat", but its parent is unknown. repost fs event for parent
+[20180108 17:02:37.928] got fs event for path "/mnt/sync/config/.SyncUser1515430902/notifications/9647246897297061476.dat", but its parent is unknown. repost fs event for parent
+[20180108 17:02:37.928] tf completed for "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/folders/-1722791601345540671" - avg hash speed: <unknown>
+[20180108 17:02:37.929] assign file_id 64768:2873969 to entry with path "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/folders/-1722791601345540671"
+[20180108 17:02:37.929] entry "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/folders/-1722791601345540671", tree path "devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/folders/-1722791601345540671" state: size:47 mt:1515430957 t:1515430957 type:file hash:57C79DB7DD965629F5BD7614B3562EFD9C9A8B1B (new entry)
+[20180108 17:02:37.929] assign file_id 64768:102268586 to entry with path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671"
+[20180108 17:02:37.929] entry "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671", tree path "folders/-1722791601345540671" state: size:0 mt:1515430957 t:1515430957 type:folder hash: (new entry)
+[20180108 17:02:37.929] will scan newly created folder "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671"
+[20180108 17:02:37.930] assign file_id 64768:2873970 to entry with path "/mnt/sync/config/.SyncUser1515430902/notifications"
+[20180108 17:02:37.930] entry "/mnt/sync/config/.SyncUser1515430902/notifications", tree path "notifications" state: size:0 mt:1515430957 t:1515430957 type:folder hash: (new entry)
+[20180108 17:02:37.930] will scan newly created folder "/mnt/sync/config/.SyncUser1515430902/notifications"
+[20180108 17:02:37.931] tf completed for "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat" - avg hash speed: <unknown>
+[20180108 17:02:37.932] assign file_id 64768:102268587 to entry with path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat"
+[20180108 17:02:37.932] entry "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat", tree path "folders/-1722791601345540671/info.dat" state: size:130 mt:1515430957 t:1515430957 type:file hash:7307E15243E619F64962C209B67A1C3D69F5399A (new entry)
+[20180108 17:02:37.934] tf completed for "/mnt/sync/config/.SyncUser1515430902/notifications/5562205678891441930.dat" - avg hash speed: <unknown>
+[20180108 17:02:37.934] assign file_id 64768:2873972 to entry with path "/mnt/sync/config/.SyncUser1515430902/notifications/5562205678891441930.dat"
+[20180108 17:02:37.934] entry "/mnt/sync/config/.SyncUser1515430902/notifications/5562205678891441930.dat", tree path "notifications/5562205678891441930.dat" state: size:152 mt:1515430957 t:1515430957 type:file hash:E7F38AD3368C0D4B93C6579CD498EA50A1AECD3A (new entry)
+[20180108 17:02:37.936] tf completed for "/mnt/sync/config/.SyncUser1515430902/notifications/9647246897297061476.dat" - avg hash speed: <unknown>
+[20180108 17:02:37.936] assign file_id 64768:2873971 to entry with path "/mnt/sync/config/.SyncUser1515430902/notifications/9647246897297061476.dat"
+[20180108 17:02:37.936] entry "/mnt/sync/config/.SyncUser1515430902/notifications/9647246897297061476.dat", tree path "notifications/9647246897297061476.dat" state: size:152 mt:1515430957 t:1515430957 type:file hash:E55C19B5524057C0D31C1F27856154458C37C413 (new entry)
+[20180108 17:02:43.046] got fs event for path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/invites/COXHHXDGAMRNLPY4HWUBEWOE6DEWULWIM.dat", but its parent is unknown. repost fs event for parent
+[20180108 17:02:43.046] assign file_id 64768:36640313 to entry with path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/invites"
+[20180108 17:02:43.047] entry "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/invites", tree path "folders/-1722791601345540671/invites" state: size:0 mt:1515430963 t:1515430963 type:folder hash: (new entry)
+[20180108 17:02:43.047] will scan newly created folder "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/invites"
+[20180108 17:02:43.050] tf completed for "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/invites/COXHHXDGAMRNLPY4HWUBEWOE6DEWULWIM.dat" - avg hash speed: <unknown>
+[20180108 17:02:43.050] assign file_id 64768:36640314 to entry with path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/invites/COXHHXDGAMRNLPY4HWUBEWOE6DEWULWIM.dat"
+[20180108 17:02:43.051] entry "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/invites/COXHHXDGAMRNLPY4HWUBEWOE6DEWULWIM.dat", tree path "folders/-1722791601345540671/invites/COXHHXDGAMRNLPY4HWUBEWOE6DEWULWIM.dat" state: size:233 mt:1515430963 t:1515430963 type:file hash:F7622DE9C6CF9B03615468C4324BE2E679CE57B2 (new entry)
+[20180108 17:02:47.806] tf completed for "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat" - avg hash speed: <unknown>
+[20180108 17:02:47.806] erase file_id 64768:102268587 assigned to entry with path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat"
+[20180108 17:02:47.806] assign file_id 64768:102268587 to entry with path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat"
+[20180108 17:02:47.806] entry "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat", tree path "folders/-1722791601345540671/info.dat" state: size:130 mt:1515430963 t:1515430963 type:file hash:7307E15243E619F64962C209B67A1C3D69F5399A (new entry)
+[20180108 17:03:22.824] tf completed for "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat" - avg hash speed: <unknown>
+[20180108 17:03:22.824] erase file_id 64768:102268587 assigned to entry with path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat"
+[20180108 17:03:22.824] assign file_id 64768:102268587 to entry with path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat"
+[20180108 17:03:22.824] entry "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat", tree path "folders/-1722791601345540671/info.dat" state: size:130 mt:1515431002 t:1515431002 type:file hash:7307E15243E619F64962C209B67A1C3D69F5399A (new entry)
+[20180108 17:03:22.825] tf completed for "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/invites/CB3R24MMYC4BPAVT6KXJI53MFO6Y7RQWU.dat" - avg hash speed: <unknown>
+[20180108 17:03:22.826] assign file_id 64768:36640315 to entry with path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/invites/CB3R24MMYC4BPAVT6KXJI53MFO6Y7RQWU.dat"
+[20180108 17:03:22.826] entry "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/invites/CB3R24MMYC4BPAVT6KXJI53MFO6Y7RQWU.dat", tree path "folders/-1722791601345540671/invites/CB3R24MMYC4BPAVT6KXJI53MFO6Y7RQWU.dat" state: size:233 mt:1515431002 t:1515431002 type:file hash:36147D6C07ABC44EF4AF522BED5781018B5D119D (new entry)
+[20180108 17:03:29.832] tf completed for "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/invites/CDR4EYSMISFQSJ3GADX2Q7LLKHPR7Y3LV.dat" - avg hash speed: <unknown>
+[20180108 17:03:29.832] assign file_id 64768:36640316 to entry with path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/invites/CDR4EYSMISFQSJ3GADX2Q7LLKHPR7Y3LV.dat"
+[20180108 17:03:29.832] entry "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/invites/CDR4EYSMISFQSJ3GADX2Q7LLKHPR7Y3LV.dat", tree path "folders/-1722791601345540671/invites/CDR4EYSMISFQSJ3GADX2Q7LLKHPR7Y3LV.dat" state: size:233 mt:1515431009 t:1515431009 type:file hash:46F165EBA2A30942F7C294A388AD610F77EC06A1 (new entry)
+[20180108 17:03:37.278] tf completed for "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat" - avg hash speed: <unknown>
+[20180108 17:03:37.278] erase file_id 64768:102268587 assigned to entry with path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat"
+[20180108 17:03:37.279] assign file_id 64768:102268587 to entry with path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat"
+[20180108 17:03:37.279] entry "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat", tree path "folders/-1722791601345540671/info.dat" state: size:130 mt:1515431009 t:1515431009 type:file hash:7307E15243E619F64962C209B67A1C3D69F5399A (new entry)
+[20180108 17:03:42.242] tf completed for "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/invites/CGUJ5YO52UZ7NIOTQRY3KV27FS4MRBEKN.dat" - avg hash speed: <unknown>
+[20180108 17:03:42.243] assign file_id 64768:36640317 to entry with path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/invites/CGUJ5YO52UZ7NIOTQRY3KV27FS4MRBEKN.dat"
+[20180108 17:03:42.243] entry "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/invites/CGUJ5YO52UZ7NIOTQRY3KV27FS4MRBEKN.dat", tree path "folders/-1722791601345540671/invites/CGUJ5YO52UZ7NIOTQRY3KV27FS4MRBEKN.dat" state: size:233 mt:1515431022 t:1515431022 type:file hash:8F344CF5EF6A69F3DC64E4253AD4C3BB3B68F13E (new entry)
+[20180108 17:03:52.011] tf completed for "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat" - avg hash speed: <unknown>
+[20180108 17:03:52.011] erase file_id 64768:102268587 assigned to entry with path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat"
+[20180108 17:03:52.011] assign file_id 64768:102268587 to entry with path "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat"
+[20180108 17:03:52.011] entry "/mnt/sync/config/.SyncUser1515430902/folders/-1722791601345540671/info.dat", tree path "folders/-1722791601345540671/info.dat" state: size:130 mt:1515431022 t:1515431022 type:file hash:7307E15243E619F64962C209B67A1C3D69F5399A (new entry)
+[20180108 17:04:26.806] got fs event for path "/mnt/sync/config/.SyncUser1515430902/identities/untrusted", but its parent is unknown. repost fs event for parent
+[20180108 17:04:26.807] got fs event for path "/mnt/sync/config/.SyncUser1515430902/identities/untrusted/VIA4QJ5HSGZM7G3OEPR2YV3MIO35PGB74ZOA7LUL2G5BQLUBVYWQ", but its parent is unknown. repost fs event for parent
+[20180108 17:04:26.807] assign file_id 64768:68664944 to entry with path "/mnt/sync/config/.SyncUser1515430902/identities"
+[20180108 17:04:26.807] entry "/mnt/sync/config/.SyncUser1515430902/identities", tree path "identities" state: size:0 mt:1515431066 t:1515431066 type:folder hash: (new entry)
+[20180108 17:04:26.807] will scan newly created folder "/mnt/sync/config/.SyncUser1515430902/identities"
+[20180108 17:04:26.808] assign file_id 64768:102268595 to entry with path "/mnt/sync/config/.SyncUser1515430902/identities/untrusted"
+[20180108 17:04:26.808] entry "/mnt/sync/config/.SyncUser1515430902/identities/untrusted", tree path "identities/untrusted" state: size:0 mt:1515431066 t:1515431066 type:folder hash: (new entry)
+[20180108 17:04:26.808] will scan newly created folder "/mnt/sync/config/.SyncUser1515430902/identities/untrusted"
+[20180108 17:04:26.809] tf completed for "/mnt/sync/config/.SyncUser1515430902/identities/untrusted/VIA4QJ5HSGZM7G3OEPR2YV3MIO35PGB74ZOA7LUL2G5BQLUBVYWQ" - avg hash speed: <unknown>
+[20180108 17:04:26.809] assign file_id 64768:102268601 to entry with path "/mnt/sync/config/.SyncUser1515430902/identities/untrusted/VIA4QJ5HSGZM7G3OEPR2YV3MIO35PGB74ZOA7LUL2G5BQLUBVYWQ"
+[20180108 17:04:26.810] entry "/mnt/sync/config/.SyncUser1515430902/identities/untrusted/VIA4QJ5HSGZM7G3OEPR2YV3MIO35PGB74ZOA7LUL2G5BQLUBVYWQ", tree path "identities/untrusted/VIA4QJ5HSGZM7G3OEPR2YV3MIO35PGB74ZOA7LUL2G5BQLUBVYWQ" state: size:641 mt:1515431066 t:1515431066 type:file hash:1934C135E1B200411D41C5ED39643A0C5C25D321 (new entry)
+[20180108 17:11:44.214] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:11:44.214] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 17:11:44.215] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:11:44.215] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:11:44.215] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 17:11:44.215] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 17:21:45.055] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:21:45.055] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 17:21:45.060] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:21:45.060] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:21:45.060] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 17:21:45.060] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 17:31:46.107] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:31:46.107] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 17:31:46.113] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:31:46.113] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:31:46.113] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 17:31:46.113] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 17:36:50.267] tf completed for "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/info.dat" - avg hash speed: <unknown>
+[20180108 17:36:50.267] erase file_id 64768:102268584 assigned to entry with path "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/info.dat"
+[20180108 17:36:50.268] assign file_id 64768:102268554 to entry with path "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/info.dat"
+[20180108 17:36:50.268] entry "/mnt/sync/config/.SyncUser1515430902/devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/info.dat", tree path "devices/CAFQRPTDDRIJAYDYJ46XXL5WHMVJFKI3/info.dat" state: size:291 mt:1515433010 t:1515433009 type:file hash:D279B65B0029CE238800B0B3200E31208086C330 (new entry)
+[20180108 17:41:47.121] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:41:47.121] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 17:41:47.127] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:41:47.128] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:41:47.128] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 17:41:47.128] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 17:51:48.142] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:51:48.142] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 17:51:48.145] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:51:48.145] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 17:51:48.145] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 17:51:48.145] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 18:01:48.851] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:01:48.851] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 18:01:48.857] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:01:48.857] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:01:48.857] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 18:01:48.857] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 18:11:50.012] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:11:50.012] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 18:11:50.017] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:11:50.017] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:11:50.017] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 18:11:50.017] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 18:21:51.203] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:21:51.203] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 18:21:51.208] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:21:51.209] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:21:51.209] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 18:21:51.209] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 18:31:52.123] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:31:52.124] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 18:31:52.128] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:31:52.128] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:31:52.128] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 18:31:52.128] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 18:41:53.230] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:41:53.230] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 18:41:53.235] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:41:53.235] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:41:53.235] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 18:41:53.235] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 18:51:54.046] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:51:54.046] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 18:51:54.053] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:51:54.053] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 18:51:54.053] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 18:51:54.053] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 19:01:54.878] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:01:54.878] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 19:01:54.879] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:01:54.879] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:01:54.879] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 19:01:54.879] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 19:11:56.182] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:11:56.182] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 19:11:56.189] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:11:56.190] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:11:56.190] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 19:11:56.190] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 19:21:56.908] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:21:56.908] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 19:21:56.913] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:21:56.913] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:21:56.913] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 19:21:56.913] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 19:31:58.222] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:31:58.222] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 19:31:58.224] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:31:58.224] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:31:58.224] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 19:31:58.224] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 19:41:59.134] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:41:59.134] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 19:41:59.135] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:41:59.135] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:41:59.135] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 19:41:59.136] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 19:52:00.098] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:52:00.098] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 19:52:00.103] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:52:00.103] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 19:52:00.103] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 19:52:00.103] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 20:02:00.875] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:02:00.875] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 20:02:00.879] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:02:00.879] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:02:00.879] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 20:02:00.879] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 20:12:02.090] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:12:02.090] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 20:12:02.091] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:12:02.091] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:12:02.091] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 20:12:02.091] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 20:22:03.210] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:22:03.210] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 20:22:03.215] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:22:03.215] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:22:03.215] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 20:22:03.215] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 20:32:03.946] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:32:03.946] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 20:32:03.950] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:32:03.950] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:32:03.950] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 20:32:03.950] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 20:42:05.152] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:42:05.152] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 20:42:05.157] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:42:05.157] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:42:05.157] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 20:42:05.157] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 20:52:06.136] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:52:06.136] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 20:52:06.142] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:52:06.142] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 20:52:06.142] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 20:52:06.142] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 21:02:07.049] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 21:02:07.049] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 21:02:07.052] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 21:02:07.052] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 21:02:07.052] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 21:02:07.052] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 21:12:08.128] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 21:12:08.128] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 21:12:08.130] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 21:12:08.130] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 21:12:08.130] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 21:12:08.130] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
+[20180108 21:22:09.107] started periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 21:22:09.107] Setup entry job "StartPeriodicScanMessage" for path "", next state is "SKIP", queue size 1 0 0 0 
+[20180108 21:22:09.108] finished periodic scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 21:22:09.108] started trash scan for "/mnt/sync/config/.SyncUser1515430902"
+[20180108 21:22:09.108] scan trash job for path "/mnt/sync/config/.SyncUser1515430902/.sync/Streams"
+[20180108 21:22:09.108] finished trash scan for "/mnt/sync/config/.SyncUser1515430902" in 0s
