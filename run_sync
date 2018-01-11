@@ -1,6 +1,6 @@
 #! /bin/bash
-
-mkdir -p /mnt/ssh-nas/data-group07/sync/folders
+#mkdir -p /mnt/sync
+#mkdir -p /mnt/sync/folders
 #mkdir -p /mnt/ssh-nas/data-group07/sync/config
 
 #if ! [ -f /mnt/sync/sync.conf ]; then
