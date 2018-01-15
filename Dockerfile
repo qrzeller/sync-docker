@@ -12,7 +12,7 @@ RUN mkdir -p /mnt/sync/folders
 RUN apt-get update && apt-get install -y apt-utils
 RUN apt-get install -y sshpass unzip
 WORKDIR "/mnt/sync/"
-RUN mkdir mkdir -p /mnt/sync/data/
+RUN mkdir -p /mnt/sync/data/
 ADD config .	
 ADD sync.conf .
 ADD https://download-cdn.resilio.com/2.5.11/linux-x64/resilio-sync_x64.tar.gz /tmp/sync.tgz
