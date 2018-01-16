@@ -12,5 +12,5 @@ COPY run_sync /usr/bin/
 EXPOSE 8888
 EXPOSE 55555
 
-ENTRYPOINT ["run_sync"]
+ENTRYPOINT ["/usr/bin/run_sync"]
 CMD ["--config", "/mnt/sync/sync.conf"]
