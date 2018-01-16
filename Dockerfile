@@ -1,15 +1,3 @@
-# Resilio Sync
-#
-# VERSION               0.1
-#
-
-FROM ubuntu
-RUN mkdir -p /home/sync/
-RUN mkdir -p /home/sync/conf/
-RUN mkdir -p /home/sync/data/
-ADD https://download-cdn.resilio.com/2.5.11/linux-x64/resilio-sync_x64.tar.gz /home/sync.tgz
-RUN tar -xf /home/sync.tgz -C /home/ rslsync && rm -f /home/sync.tgz
-COPY sync.conf /home/sync/conf/
-EXPOSE 8888
-EXPOSE 55555
-CMD ["rslsync","--nodaemon", "--config", "/home/sync/conf/sync.conf"]
+FROM php:7.0-apache
+ADD https://download.nextcloud.com/server/releases/nextcloud-12.0.4.zip /tmp/nextcloud.zip
+RUN unzip /tmp/nextcloud.zip -d /var/www/html/nextcloud/ && rm -f /tmp/nextcloud.zip
