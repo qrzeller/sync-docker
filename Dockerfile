@@ -1,17 +1,17 @@
 # Resilio Sync
-#
-# VERSION               0.1
+# Edited
+# VERSION               0.2
 #
 
 FROM ubuntu
 ADD https://download-cdn.resilio.com/2.5.11/linux-x64/resilio-sync_x64.tar.gz /tmp/sync.tgz
 RUN tar -xf /tmp/sync.tgz -C /usr/bin rslsync && rm -f /tmp/sync.tgz
+RUN mkdir -p /sync/data/
+RUN mkdir -p /sync-conf/
 
-#COPY sync.conf.default /etc/
-COPY run_sync /usr/bin/
+COPY ./sync.conf /sync-conf/
 
 EXPOSE 8888
 EXPOSE 55555
 
-ENTRYPOINT ["run_sync"]
-CMD ["--config", "/mnt/sync/sync.conf"]
+CMD ["rslsync","--nodaemon","--config", "/sync-conf/sync.conf"]

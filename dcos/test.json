@@ -1,5 +1,5 @@
 {
-   "id":"/simple-pod2",
+   "id":"/simple-sync",
    "containers":[
       {
          "name":"simpletask1",
@@ -14,7 +14,7 @@
          },
          "image":{
             "kind":"DOCKER",
-            "id":"linuxserver/resilio-sync"
+            "id":"qtask/docker-nginx:alpine"
          }
       }
    ],
