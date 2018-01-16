@@ -9,9 +9,5 @@ RUN tar -xf /tmp/sync.tgz -C /usr/bin rslsync && rm -f /tmp/sync.tgz
 RUN mkdir -p /sync/data/
 RUN mkdir -p /sync-conf/
 
-COPY ./sync.conf /sync-conf/
+COPY sync.conf /sync-conf/
 
-EXPOSE 8888
-EXPOSE 55555
-
-CMD ["rslsync","--nodaemon","--config", "/sync-conf/sync.conf"]
