@@ -12,4 +12,4 @@ RUN tar -xf /home/sync.tgz -C /home/ rslsync && rm -f /home/sync.tgz
 COPY sync.conf /home/sync/conf/
 EXPOSE 8888
 EXPOSE 55555
-CMD ["rslsync", "-config", "/home/sync/conf/sync.conf"]
+CMD ["rslsync","--nodaemon", "--config", "/home/sync/conf/sync.conf"]
