@@ -1,0 +1,32 @@
+{
+   "id":"/qtask-nextcloud-resilio",
+   "containers":[
+      {
+         "name":"resilio-pods",
+         "resources":{
+            "cpus":1,
+            "mem":128,
+            "disk":0,
+            "gpus":0
+         },
+         "image":{
+            "kind":"DOCKER",
+            "id":"qtask/sync-docker"
+         },
+         "endpoints":[
+            {
+               "name":"web-resilio",
+               "containerPort":8888,
+               "protocol":[
+                  "http"
+               ]
+            }
+         ]
+      }
+   ],
+   "networks":[
+      {
+         "mode":"container"
+      }
+   ]
+}
