@@ -8,4 +8,5 @@ RUN docker-php-ext-configure gd --with-freetype-dir=/usr/include/ --with-jpeg-di
 RUN docker-php-ext-install zip
 RUN docker-php-ext-install gd 
 RUN chown -R www-data:www-data /var/www/html
-RUN mv /var/www/html/nextcloud/* /var/www/html/
+RUN cp -r /var/www/html/nextcloud/* /var/www/html/
+RUN rm -R /var/www/html/nextcloud/
