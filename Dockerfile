@@ -7,6 +7,6 @@ RUN apt-get install -y libfreetype6-dev libjpeg62-turbo-dev libmcrypt-dev libpng
 RUN docker-php-ext-configure gd --with-freetype-dir=/usr/include/ --with-jpeg-dir=/usr/include/
 RUN docker-php-ext-install zip
 RUN docker-php-ext-install gd 
-RUN chown -R www-data:www-data /var/www/html
 RUN cp -r /var/www/html/nextcloud/* /var/www/html/
 RUN rm -R /var/www/html/nextcloud/
+RUN chown -R www-data:www-data /var/www/html/
